@@ -7,7 +7,10 @@ vamoooos que se puede[ curso de Git y Github](https://platzi.com/cursos/git-gith
 * Todos los comandos de Git
 * El flujo de trabajo en Github
 * El verdadero amor por las buenas prÃ¡cticas
+* creado por el increible platzi team
 * Trucos muy locos del profesor
 * Las personalidades mÃºltiples de Freddy
+ 
+
 
 Y como un amable recordatorio: **Este readme.md es un chiste**.  DiseÃ±ado para el ejemplo. Si llegas acÃ¡ NO TE LO TOMES EN SERIO y mejor ve [**a ver el curso**](https://platzi.com/cursos/git-github/ "a ver el curso").
